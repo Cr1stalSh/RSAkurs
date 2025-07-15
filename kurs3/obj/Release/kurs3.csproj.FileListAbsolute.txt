@@ -1,0 +1,12 @@
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\bin\Release\kurs3.exe.config
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\bin\Release\kurs3.exe
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\bin\Release\kurs3.pdb
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\obj\Release\kurs3.csproj.AssemblyReference.cache
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\obj\Release\kurs3.csproj.SuggestedBindingRedirects.cache
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\obj\Release\kurs3.Form1.resources
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\obj\Release\kurs3.Form2.resources
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\obj\Release\kurs3.Properties.Resources.resources
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\obj\Release\kurs3.csproj.GenerateResource.cache
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\obj\Release\kurs3.csproj.CoreCompileInputs.cache
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\obj\Release\kurs3.exe
+D:\level 1\программирование\семестр 2\курсовая\RSAkurs\kurs3\obj\Release\kurs3.pdb
